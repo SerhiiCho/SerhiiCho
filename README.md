@@ -4,4 +4,4 @@ I'm mostly focusing on the server side. Working with PHP and GO. I was fortunate
 
 [![SerhiiCho's github stats](https://github-readme-stats.vercel.app/api?username=SerhiiCho)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiiCho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiiCho)](https://github.com/anuraghazra/github-readme-stats)
