@@ -1,7 +1,7 @@
-<p style="text-align:center">
-  <a href="https://serhii.io">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiiCho" alt="Top Langs">
-  </a>
-  
-  <b>👋 Hi. I'm mostly working with PHP, TypeScript, Vue and Go. Check my pinned open source packages below</b>
-</p>
+<a href="https://serhii.io" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiiCho"
+       alt="Top Langs"
+       align="center"
+       width="400"
+  >
+</a>
