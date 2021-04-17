@@ -7,4 +7,9 @@
   </p>
 </a>
 
-[![SerhiiCho's wakatime stats](https://github-readme-stats.vercel.app/api/SerhiiCho?username=SerhiiCho)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SerhiiCho" alt="SerhiiCho&#39;s wakatime stats">
+  </a>
+</p>
+
