@@ -7,4 +7,4 @@
   </p>
 </a>
 
-[![SerhiiCho's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SerhiiCho)](https://github.com/anuraghazra/github-readme-stats)
+[![SerhiiCho's wakatime stats](https://github-readme-stats.vercel.app/api/SerhiiCho?username=SerhiiCho)](https://github.com/anuraghazra/github-readme-stats)
