@@ -3,9 +3,8 @@
     <tr>
       <td>
         <a href="https://serhii.io" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiiCho"
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiiCho&langs_count=10"
              alt="Top Langs"
-             width="330"
            >
         </a>
       </td>
