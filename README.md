@@ -1,3 +1,4 @@
-![programming-legends-short-min](https://github.com/SerhiiCho/SerhiiCho/assets/35465417/35e39466-4e3f-4d44-a5d5-b250f0e21245)
+![programming-legends-short](https://github.com/SerhiiCho/SerhiiCho/assets/35465417/349a84c7-62c2-43d4-ba6c-dc9cb504dd99)
 
-**Ken Thompson, Dennis Ritchie, Brian Kernighan, Donald Knuth, Linus Torvalds**.
+
+**Ken Thompson, Dennis Ritchie, Alan Turing, Donald Knuth, Linus Torvalds**.
