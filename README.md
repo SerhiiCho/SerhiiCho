@@ -11,6 +11,7 @@
 - [PHP Revival](https://github.com/SerhiiCho/php-revival) (SASS, TypeScript)
 
 #### Not complete
-- [Shoshka GO](https://github.com/SerhiiCho/shoshka-go) (Golang)
+- [Textwire](https://github.com/textwire/textwire) (Go)
+- [Shoshka GO](https://github.com/SerhiiCho/shoshka-go) (Go)
 - [Shoshka](https://github.com/SerhiiCho/shoshka) (PHP)
 - [COVID19 Stats](https://github.com/SerhiiCho/covid19-stats) (Vue, TypeScript)
