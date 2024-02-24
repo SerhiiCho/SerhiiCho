@@ -2,7 +2,7 @@
 
 #### Complete
 - [Textwire](https://github.com/textwire/textwire) (Go)
-- [TimeAgo](https://github.com/SerhiiCho/timeago) (Go)
+- [Timeago](https://github.com/SerhiiCho/timeago) (Go)
 - [Goodbye HTML](https://github.com/SerhiiCho/goodbye-html) (PHP)
 - [Short Number](https://github.com/SerhiiCho/short-number) (PHP)
 - [Ago](https://github.com/SerhiiCho/ago) (PHP)
