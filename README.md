@@ -1,6 +1,6 @@
 ### Check out my open source packages
 
-#### Complete
+#### Complete packages
 - [Textwire](https://github.com/textwire/textwire) (Go)
 - [Timeago](https://github.com/SerhiiCho/timeago) (Go)
 - [Goodbye HTML](https://github.com/SerhiiCho/goodbye-html) (PHP)
@@ -11,7 +11,10 @@
 - [WP Pager](https://github.com/wp-pager/wp-pager) (PHP, WordPress)
 - [PHP Revival](https://github.com/php-revival/php-revival) (SASS, TypeScript)
 
-#### Not complete
+### Collaboration packages
+- [RFC Vote](https://github.com/brendt/rfc-vote) (PHP, Laravel)
+
+#### Not complete packages
 - [Shoshka GO](https://github.com/SerhiiCho/shoshka-go) (Go)
 - [Shoshka](https://github.com/SerhiiCho/shoshka) (PHP)
 - [COVID19 Stats](https://github.com/SerhiiCho/covid19-stats) (Vue, TypeScript)
