@@ -1,7 +1,10 @@
 ### Check out my open source packages
 
 #### Complete packages
-- [Textwire](https://github.com/textwire/textwire) (Go)
+- Textwire
+  - [Textwire](https://github.com/textwire/textwire) (Go)
+  - [VSCode Textwire extension](https://github.com/textwire/vscode-textwire)
+  - [Textwire Documentation](https://github.com/textwire/textwire.github.io) (Vuepress)
 - [Timeago](https://github.com/SerhiiCho/timeago) (Go)
 - [Goodbye HTML](https://github.com/SerhiiCho/goodbye-html) (PHP)
 - [Short Number](https://github.com/SerhiiCho/short-number) (PHP)
