@@ -1,4 +1,4 @@
-# Check out my open source packages
+# My open source
 
 ### Complete packages
 - Textwire Project
