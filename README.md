@@ -20,7 +20,9 @@
 - WP Pager WordPress plugin
   - [WP Pager](https://github.com/wp-pager/wp-pager) (PHP, WordPress)
   - [WP Pager Landing](https://github.com/wp-pager/wp-pager.github.io) (TypeScript, Vue)
-- [PHP Revival](https://github.com/php-revival/php-revival) (SASS, TypeScript)
+- PHP Revival
+  - [PHP Revival](https://github.com/php-revival/php-revival) (SASS, TypeScript)
+  - [PHP Revival Landing](https://github.com/php-revival/php-revival.github.io) (Vue, TypeScript, TailwindCSS)
 - [Goodbye HTML](https://github.com/SerhiiCho/goodbye-html) (PHP)
 - [Tiny Logger](https://github.com/SerhiiCho/tiny-logger) (PHP)
 
@@ -31,3 +33,4 @@
 - [Shoshka GO](https://github.com/SerhiiCho/shoshka-go) (Go)
 - [Shoshka](https://github.com/SerhiiCho/shoshka) (PHP)
 - [COVID19 Stats](https://github.com/SerhiiCho/covid19-stats) (Vue, TypeScript)
+- [Tab Guardian](https://github.com/tab-guardian/tab-guardian) (Vue, TypeScript, SASS)
