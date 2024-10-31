@@ -4,10 +4,10 @@
 - Textwire Project
   - [Textwire](https://github.com/textwire/textwire) (Go)
   - [VSCode Textwire extension](https://github.com/textwire/vscode-textwire)
-  - [Textwire Documentation](https://github.com/textwire/textwire.github.io) (VuePress)
+  - [Textwire Documentation](https://github.com/textwire/textwire.github.io) (Docusaurus)
 - Timeago Project
   - [Timeago](https://github.com/SerhiiCho/timeago) (Go)
-  - [Timeago Documentation](https://github.com/time-ago/timeago.github.io) (VuePress)
+  - [Timeago Documentation](https://github.com/time-ago/time-ago.github.io) (VuePress)
 - Ago Project
   - [Ago](https://github.com/SerhiiCho/ago) (PHP)
   - [Ago Documentation](https://github.com/SerhiiCho/ago-docs) (VuePress)
