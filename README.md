@@ -7,7 +7,7 @@
   - [Textwire Documentation](https://github.com/textwire/textwire.github.io) (VuePress)
 - Timeago Project
   - [Timeago](https://github.com/SerhiiCho/timeago) (Go)
-  - [Timeago Documentation](https://github.com/SerhiiCho/timeago-docs) (VuePress)
+  - [Timeago Documentation](https://github.com/time-ago/timeago.github.io) (VuePress)
 - Ago Project
   - [Ago](https://github.com/SerhiiCho/ago) (PHP)
   - [Ago Documentation](https://github.com/SerhiiCho/ago-docs) (VuePress)
