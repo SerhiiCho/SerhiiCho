@@ -9,8 +9,8 @@
   - [Timeago](https://github.com/SerhiiCho/timeago) (Go)
   - [Timeago Documentation](https://github.com/time-ago/time-ago.github.io) (VuePress)
 - Ago Project
-  - [Ago](https://github.com/SerhiiCho/ago) (PHP)
-  - [Ago Documentation](https://github.com/SerhiiCho/ago-docs) (VuePress)
+  - [Ago](https://github.com/php-ago/ago) (PHP)
+  - [Ago Documentation](https://github.com/php-ago/php-ago.github.io) (VuePress)
 - Smooth Loader Project
   - [Smooth Loader](https://github.com/smooth-loader/smooth-loader) (TypeScript)
   - [Smooth Loader Documentation](https://github.com/smooth-loader/smooth-loader.github.io) (VuePress)
