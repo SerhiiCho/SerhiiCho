@@ -1,6 +1,7 @@
 # My open source
 
 ### Complete packages
+- [Tab Guardian](https://github.com/tab-guardian/tab-guardian) (Vue, TypeScript, SASS)
 - Textwire Project
   - [Textwire](https://github.com/textwire/textwire) (Go)
   - [VSCode Textwire extension](https://github.com/textwire/vscode-textwire)
@@ -33,4 +34,3 @@
 - [Shoshka GO](https://github.com/SerhiiCho/shoshka-go) (Go)
 - [Shoshka](https://github.com/SerhiiCho/shoshka) (PHP)
 - [COVID19 Stats](https://github.com/SerhiiCho/covid19-stats) (Vue, TypeScript)
-- [Tab Guardian](https://github.com/tab-guardian/tab-guardian) (Vue, TypeScript, SASS)
