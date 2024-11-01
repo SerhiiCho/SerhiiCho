@@ -25,7 +25,7 @@
   - [PHP Revival Landing](https://github.com/php-revival/php-revival.github.io) (Vue, TypeScript, TailwindCSS)
 - [Tab Guardian](https://github.com/tab-guardian/tab-guardian) (Vue, TypeScript, SASS)
 - [Goodbye HTML](https://github.com/goodbye-html/goodbye-html) (PHP)
-- [Tiny Logger](https://github.com/SerhiiCho/tiny-logger) (PHP)
+- [Tiny Logger](https://github.com/tiny-logger/tiny-logger) (PHP)
 
 ### Collaboration packages
 - [RFC Vote](https://github.com/brendt/rfc-vote) (PHP, Laravel)
