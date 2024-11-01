@@ -15,8 +15,8 @@
   - [Smooth Loader](https://github.com/smooth-loader/smooth-loader) (TypeScript)
   - [Smooth Loader Documentation](https://github.com/smooth-loader/smooth-loader.github.io) (VuePress)
 - Short Number Project
-  - [Short Number](https://github.com/SerhiiCho/short-number) (PHP)
-  - [Short Number Documentation](https://github.com/SerhiiCho/short-number-docs) (VuePress)
+  - [Short Number](https://github.com/short-number/short-number) (PHP)
+  - [Short Number Documentation](https://github.com/short-number/short-number.github.io) (VuePress)
 - WP Pager WordPress plugin
   - [WP Pager](https://github.com/wp-pager/wp-pager) (PHP, WordPress)
   - [WP Pager Landing](https://github.com/wp-pager/wp-pager.github.io) (TypeScript, Vue)
