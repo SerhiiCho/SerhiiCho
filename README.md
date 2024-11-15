@@ -30,7 +30,7 @@
 ### Collaboration packages
 - [RFC Vote](https://github.com/brendt/rfc-vote) (PHP, Laravel)
 
-### Not complete packages
+### Experimental packages
 - [Shoshka GO](https://github.com/SerhiiCho/shoshka-go) (Go)
 - [Shoshka](https://github.com/SerhiiCho/shoshka) (PHP)
 - [COVID19 Stats](https://github.com/SerhiiCho/covid19-stats) (Vue, TypeScript)
