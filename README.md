@@ -7,16 +7,16 @@
   - [Textwire Documentation](https://github.com/textwire/textwire.github.io) (Docusaurus)
 - Timeago Project
   - [Timeago](https://github.com/SerhiiCho/timeago) (Go)
-  - [Timeago Documentation](https://github.com/time-ago/time-ago.github.io) (VuePress)
+  - [Timeago Documentation](https://github.com/time-ago/time-ago.github.io) (VitePress)
 - Ago Project
   - [Ago](https://github.com/php-ago/ago) (PHP)
-  - [Ago Documentation](https://github.com/php-ago/php-ago.github.io) (VuePress)
+  - [Ago Documentation](https://github.com/php-ago/php-ago.github.io) (VitePress)
 - Smooth Loader Project
   - [Smooth Loader](https://github.com/smooth-loader/smooth-loader) (TypeScript)
   - [Smooth Loader Documentation](https://github.com/smooth-loader/smooth-loader.github.io) (VuePress)
 - Short Number Project
   - [Short Number](https://github.com/short-number/short-number) (PHP)
-  - [Short Number Documentation](https://github.com/short-number/short-number.github.io) (VuePress)
+  - [Short Number Documentation](https://github.com/short-number/short-number.github.io) (VitePress)
 - WP Pager WordPress plugin
   - [WP Pager](https://github.com/wp-pager/wp-pager) (PHP, WordPress)
   - [WP Pager Landing](https://github.com/wp-pager/wp-pager.github.io) (TypeScript, Vue)
