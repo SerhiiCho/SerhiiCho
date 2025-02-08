@@ -5,6 +5,7 @@
   - [Textwire](https://github.com/textwire/textwire) (Go)
   - [VSCode Textwire extension](https://github.com/textwire/vscode-textwire)
   - [Textwire Documentation](https://github.com/textwire/textwire.github.io) (Docusaurus)
+  - [Textwire Language Server Protocol](https://github.com/textwire/lsp) (Go)
 - Timeago Project
   - [Timeago](https://github.com/SerhiiCho/timeago) (Go)
   - [Timeago Documentation](https://github.com/time-ago/time-ago.github.io) (VitePress)
