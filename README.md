@@ -1,6 +1,6 @@
-# My open source
+# Serhii Cho's Open Source
 
-### Complete packages
+### Complete Packages
 - Textwire Project
   - [Textwire](https://github.com/textwire/textwire) (Go)
   - [VSCode Textwire extension](https://github.com/textwire/vscode-textwire)
@@ -18,7 +18,7 @@
 - Short Number Project
   - [Short Number](https://github.com/short-number/short-number) (PHP)
   - [Short Number Documentation](https://github.com/short-number/short-number.github.io) (VitePress)
-- WP Pager WordPress plugin
+- WP Pager WordPress Plugin
   - [WP Pager](https://github.com/wp-pager/wp-pager) (PHP, WordPress)
   - [WP Pager Landing](https://github.com/wp-pager/wp-pager.github.io) (TypeScript, Vue)
 - PHP Revival
@@ -28,10 +28,10 @@
 - [Goodbye HTML](https://github.com/goodbye-html/goodbye-html) (PHP)
 - [Tiny Logger](https://github.com/tiny-logger/tiny-logger) (PHP)
 
-### Collaboration packages
+### Collaboration Packages
 - [RFC Vote](https://github.com/brendt/rfc-vote) (PHP, Laravel)
 
-### Experimental packages
+### Experimental Packages
 - [Shoshka GO](https://github.com/SerhiiCho/shoshka-go) (Go)
 - [Shoshka](https://github.com/SerhiiCho/shoshka) (PHP)
 - [COVID19 Stats](https://github.com/SerhiiCho/covid19-stats) (Vue, TypeScript)
