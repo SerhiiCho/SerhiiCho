@@ -4,28 +4,28 @@
 - Textwire Project
   - [Textwire](https://github.com/textwire/textwire) (Go)
   - [VSCode Textwire extension](https://github.com/textwire/vscode-textwire)
-  - [Textwire Documentation](https://github.com/textwire/textwire.github.io) (Docusaurus)
+  - [Textwire Documentation](https://github.com/textwire/textwire.github.io) (React, Docusaurus)
   - [Textwire Language Server Protocol](https://github.com/textwire/lsp) (Go)
-  - [Textwire Tree Sitter](https://github.com/textwire/tree-sitter-textwire) (C, JS)
+  - [Textwire Tree Sitter](https://github.com/textwire/tree-sitter-textwire) (C, JavaScript)
 - Timeago Project
   - [Timeago](https://github.com/SerhiiCho/timeago) (Go)
-  - [Timeago Documentation](https://github.com/time-ago/time-ago.github.io) (VitePress)
+  - [Timeago Documentation](https://github.com/time-ago/time-ago.github.io) (VitePress, Vue)
 - Ago Project
   - [Ago](https://github.com/php-ago/ago) (PHP)
   - [Ago Documentation](https://github.com/php-ago/php-ago.github.io) (VitePress)
 - Smooth Loader Project
-  - [Smooth Loader](https://github.com/smooth-loader/smooth-loader) (TS)
-  - [Smooth Loader Documentation](https://github.com/smooth-loader/smooth-loader.github.io) (VuePress)
+  - [Smooth Loader](https://github.com/smooth-loader/smooth-loader) (TypeScript)
+  - [Smooth Loader Documentation](https://github.com/smooth-loader/smooth-loader.github.io) (VuePress, Vue)
 - Short Number Project
   - [Short Number](https://github.com/short-number/short-number) (PHP)
-  - [Short Number Documentation](https://github.com/short-number/short-number.github.io) (VitePress)
+  - [Short Number Documentation](https://github.com/short-number/short-number.github.io) (VitePress, Vue)
 - WP Pager WordPress Plugin
   - [WP Pager](https://github.com/wp-pager/wp-pager) (PHP, WordPress)
-  - [WP Pager Landing](https://github.com/wp-pager/wp-pager.github.io) (TS, Vue)
+  - [WP Pager Landing](https://github.com/wp-pager/wp-pager.github.io) (TypeScript, Vue)
 - PHP Revival
   - [PHP Revival](https://github.com/php-revival/php-revival) (SASS, TypeScript)
-  - [PHP Revival Landing](https://github.com/php-revival/php-revival.github.io) (Vue, TS, TailwindCSS)
-- [Tab Guardian](https://github.com/tab-guardian/tab-guardian) (Vue, TS, SASS)
+  - [PHP Revival Landing](https://github.com/php-revival/php-revival.github.io) (Vue, TypeScript, TailwindCSS)
+- [Tab Guardian](https://github.com/tab-guardian/tab-guardian) (Vue, TypeScript, SASS)
 - [Goodbye HTML](https://github.com/goodbye-html/goodbye-html) (PHP)
 - [Tiny Logger](https://github.com/tiny-logger/tiny-logger) (PHP)
 
