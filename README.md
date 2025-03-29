@@ -3,7 +3,7 @@
 ### Complete Packages
 - Textwire Project
   - [Textwire](https://github.com/textwire/textwire) (Go)
-  - [VSCode Textwire extension](https://github.com/textwire/vscode-textwire)
+  - [VSCode Textwire extension](https://github.com/textwire/vscode-textwire) (TypeScript)
   - [Textwire Documentation](https://github.com/textwire/textwire.github.io) (React, Docusaurus)
   - [Textwire Language Server Protocol](https://github.com/textwire/lsp) (Go)
   - [Textwire Tree Sitter](https://github.com/textwire/tree-sitter-textwire) (C, JavaScript)
