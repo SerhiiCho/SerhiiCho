@@ -3,10 +3,11 @@
 ### Complete Packages
 - Textwire Project
   - [Textwire](https://github.com/textwire/textwire) (Go)
-  - [VSCode Textwire extension](https://github.com/textwire/vscode-textwire) (TypeScript)
-  - [Textwire Documentation](https://github.com/textwire/textwire.github.io) (React, Docusaurus)
-  - [Textwire Language Server Protocol](https://github.com/textwire/lsp) (Go)
-  - [Textwire Tree Sitter](https://github.com/textwire/tree-sitter-textwire) (C, JavaScript)
+  - [Neovim Plugin](https://github.com/textwire/textwire.nvim) (Lua, Bash)
+  - [VSCode Extension](https://github.com/textwire/vscode-textwire) (TypeScript)
+  - [Documentation](https://github.com/textwire/textwire.github.io) (React, Docusaurus)
+  - [Language Server Protocol](https://github.com/textwire/lsp) (Go)
+  - [Tree Sitter](https://github.com/textwire/tree-sitter-textwire) (C, JavaScript)
 - Timeago Project
   - [Timeago](https://github.com/SerhiiCho/timeago) (Go)
   - [Timeago Documentation](https://github.com/time-ago/time-ago.github.io) (VitePress, Vue)
