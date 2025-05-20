@@ -1,7 +1,7 @@
 # My Open Source
 
 ### Complete Packages
-- Textwire Project
+- Textwire
   - [Textwire](https://github.com/textwire/textwire) (Go)
   - [Neovim Plugin](https://github.com/textwire/textwire.nvim) (Lua, Bash)
   - [VSCode Extension](https://github.com/textwire/vscode-textwire) (TypeScript)
