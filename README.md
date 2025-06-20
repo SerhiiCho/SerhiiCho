@@ -9,7 +9,7 @@
   - [Language Server Protocol](https://github.com/textwire/lsp) (Go)
   - [Tree Sitter](https://github.com/textwire/tree-sitter-textwire) (C, JavaScript)
 - Timeago Project
-  - [Timeago](https://github.com/SerhiiCho/timeago) (Go)
+  - [Timeago](https://github.com/SerhiiCho/timeago) (Go) 🐳
   - [Timeago Documentation](https://github.com/time-ago/time-ago.github.io) (VitePress, Vue)
 - Ago Project
   - [Ago](https://github.com/php-ago/ago) (PHP) 🐳
