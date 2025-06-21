@@ -13,7 +13,7 @@
   - [Timeago Documentation](https://github.com/time-ago/time-ago.github.io) (VitePress, Vue)
 - Ago Project
   - [Ago](https://github.com/php-ago/ago) (PHP) 🐳
-  - [Ago Documentation](https://github.com/php-ago/php-ago.github.io) (VitePress)
+  - [Ago Documentation](https://github.com/php-ago/php-ago.github.io) (VitePress) 🐳
 - Smooth Loader Project
   - [Smooth Loader](https://github.com/smooth-loader/smooth-loader) (TypeScript)
   - [Smooth Loader Documentation](https://github.com/smooth-loader/smooth-loader.github.io) (VuePress, Vue)
