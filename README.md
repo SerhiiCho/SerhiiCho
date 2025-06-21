@@ -16,7 +16,7 @@
   - [Ago Documentation](https://github.com/php-ago/php-ago.github.io) (VitePress) 🐳
 - Smooth Loader Project
   - [Smooth Loader](https://github.com/smooth-loader/smooth-loader) (TypeScript)
-  - [Smooth Loader Documentation](https://github.com/smooth-loader/smooth-loader.github.io) (VuePress, Vue)
+  - [Smooth Loader Documentation](https://github.com/smooth-loader/smooth-loader.github.io) (VitePress, Vue) 🐳
 - Short Number Project
   - [Short Number](https://github.com/short-number/short-number) (PHP) 🐳
   - [Short Number Documentation](https://github.com/short-number/short-number.github.io) (VitePress, Vue)
