@@ -10,7 +10,7 @@
   - [Tree Sitter](https://github.com/textwire/tree-sitter-textwire) (C, JavaScript)
 - Timeago Project
   - [Timeago](https://github.com/SerhiiCho/timeago) (Go) 🐳
-  - [Timeago Documentation](https://github.com/time-ago/time-ago.github.io) (VitePress, Vue)
+  - [Timeago Documentation](https://github.com/time-ago/time-ago.github.io) (VitePress, Vue) 🐳
 - Ago Project
   - [Ago](https://github.com/php-ago/ago) (PHP) 🐳
   - [Ago Documentation](https://github.com/php-ago/php-ago.github.io) (VitePress) 🐳
