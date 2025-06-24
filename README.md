@@ -25,7 +25,7 @@
   - 🐳 [WP Pager Landing](https://github.com/wp-pager/wp-pager.github.io) (TypeScript, Vue)
 - PHP Revival
   - 💻 [PHP Revival](https://github.com/php-revival/php-revival) (SASS, TypeScript)
-  - 💻 [PHP Revival Landing](https://github.com/php-revival/php-revival.github.io) (Vue, TypeScript, TailwindCSS)
+  - 🐳 [PHP Revival Landing](https://github.com/php-revival/php-revival.github.io) (Vue, TypeScript, TailwindCSS)
 - 💻 [Tab Guardian](https://github.com/tab-guardian/tab-guardian) (Vue, TypeScript, SASS)
 - 🐳 [Goodbye HTML](https://github.com/goodbye-html/goodbye-html) (PHP)
 - 🐳 [Tiny Logger](https://github.com/tiny-logger/tiny-logger) (PHP)
