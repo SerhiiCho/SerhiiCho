@@ -7,7 +7,7 @@
   - 🐳 [VSCode Extension](https://github.com/textwire/vscode-textwire) (TypeScript)
   - 🐳 [Textwire Documentation](https://github.com/textwire/textwire.github.io) (React, Docusaurus)
   - 🐳 [Language Server Protocol (LSP)](https://github.com/textwire/lsp) (Go)
-  - 💻 [Tree Sitter](https://github.com/textwire/tree-sitter-textwire) (C, JavaScript)
+  - 🐳 [Tree Sitter](https://github.com/textwire/tree-sitter-textwire) (C, JavaScript)
 - Timeago Project
   - 🐳 [Timeago](https://github.com/SerhiiCho/timeago) (Go)
   - 🐳 [Timeago Documentation](https://github.com/time-ago/time-ago.github.io) (VitePress, Vue)
