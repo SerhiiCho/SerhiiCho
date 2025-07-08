@@ -1,6 +1,6 @@
-# My Open Source
+# 🐧 My Open Source
 
-### Complete Packages
+### 📦 Complete Packages
 - Textwire
   - 🐳 [Textwire](https://github.com/textwire/textwire) (Go)
   - 💻 [Neovim Plugin](https://github.com/textwire/textwire.nvim) (Lua, Bash)
@@ -30,5 +30,9 @@
 - 🐳 [Goodbye HTML](https://github.com/goodbye-html/goodbye-html) (PHP)
 - 🐳 [Tiny Logger](https://github.com/tiny-logger/tiny-logger) (PHP)
 
-### Collaboration Packages
+### 🤝 Collaboration Packages
 - 🐳 [RFC Vote](https://github.com/brendt/rfc-vote) (PHP, Laravel)
+
+### 🎮 Games
+- 💻 [Tower Defense](https://github.com/SerhiiChoGames/tower-defense)
+- 💻 [Collect Diamonds](https://github.com/SerhiiChoGames/collect-diamonds)
