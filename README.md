@@ -35,5 +35,5 @@
 - 🐳 [RFC Vote](https://github.com/brendt/rfc-vote) (PHP, Laravel)
 
 ### 🎮 Games
-- 💻 [Tower Defense](https://github.com/SerhiiChoGames/tower-defense)
-- 💻 [Collect Diamonds](https://github.com/SerhiiChoGames/collect-diamonds)
+- 🐳 [Tower Defense](https://github.com/SerhiiChoGames/tower-defense)
+- 🐳 [Collect Diamonds](https://github.com/SerhiiChoGames/collect-diamonds)
