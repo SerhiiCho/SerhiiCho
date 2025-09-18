@@ -32,7 +32,7 @@
 - 🐧 [COVID-19 Stats](https://github.com/SerhiiCho/covid19-stats)
 
 ### 🤝 Collaboration Packages
-- 🐧 [RFC Vote](https://github.com/brendt/rfc-vote) (PHP, Laravel)
+- 🐧 [RFC Vote](https://github.com/rfc-vote/rfc-vote) (PHP, Laravel)
 
 ### 🎮 Games
 - 🐧 [Tower Defense](https://github.com/SerhiiChoGames/tower-defense)
