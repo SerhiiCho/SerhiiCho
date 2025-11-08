@@ -29,7 +29,7 @@
 - 🐧 [Tab Guardian](https://github.com/tab-guardian/tab-guardian) (Vue, TypeScript, SASS)
 - 🐧 [Goodbye HTML](https://github.com/goodbye-html/goodbye-html) (PHP)
 - 🐧 [Tiny Logger](https://github.com/tiny-logger/tiny-logger) (PHP)
-- 🐧 [COVID-19 Stats](https://github.com/SerhiiCho/covid19-stats)
+- 🐧 [COVID-19 Stats](https://github.com/SerhiiCho/covid19-stats) (TypeScript, Vue)
 
 ### 🤝 Collaboration Packages
 - 🐧 [RFC Vote](https://github.com/rfc-vote/rfc-vote) (PHP, Laravel)
