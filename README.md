@@ -22,7 +22,7 @@
   - 🐧 [Short Number Documentation](https://github.com/short-number/short-number.github.io) (VitePress, Vue)
 - WP Pager WordPress Plugin
   - 🐧 [WP Pager](https://github.com/wp-pager/wp-pager) (PHP, WordPress)
-  - 🐧 [WP Pager Landing](https://github.com/wp-pager/wp-pager.github.io) (TypeScript, Vue)
+  - 🐧 [WP Pager Landing](https://github.com/wp-pager/wp-pager.github.io) (TypeScript, Vue, TailwindCSS)
 - PHP Revival
   - 🐧 [PHP Revival](https://github.com/php-revival/php-revival) (SASS, TypeScript)
   - 🐧 [PHP Revival Landing](https://github.com/php-revival/php-revival.github.io) (Vue, TypeScript, TailwindCSS)
