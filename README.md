@@ -26,7 +26,7 @@
 - PHP Revival
   - 🐧 [PHP Revival](https://github.com/php-revival/php-revival) (SASS, TypeScript)
   - 🐧 [PHP Revival Landing](https://github.com/php-revival/php-revival.github.io) (Vue, TypeScript, TailwindCSS)
-- 🐧 [Tab Guardian](https://github.com/tab-guardian/tab-guardian) (Vue, TypeScript, SASS)
+- 🐧 [Tab Guardian](https://github.com/tab-guardian/tab-guardian) (Vue, TypeScript, TailwindCSS)
 - 🐧 [Goodbye HTML](https://github.com/goodbye-html/goodbye-html) (PHP)
 - 🐧 [Tiny Logger](https://github.com/tiny-logger/tiny-logger) (PHP)
 - 🐧 [COVID-19 Stats](https://github.com/SerhiiCho/covid19-stats) (TypeScript, Vue)
