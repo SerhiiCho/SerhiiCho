@@ -24,9 +24,9 @@
   - 🐧 [WP Pager](https://github.com/wp-pager/wp-pager) (PHP, WordPress)
   - 🐧 [WP Pager Landing](https://github.com/wp-pager/wp-pager.github.io) (TypeScript, Vue, TailwindCSS)
 - PHP Revival
-  - 🐧 [PHP Revival](https://github.com/php-revival/php-revival) (SASS, TypeScript)
+  - 🐧 [PHP Revival](https://github.com/php-revival/php-revival) (SASS, TypeScript) GPL 3.0
   - 🐧 [PHP Revival Landing](https://github.com/php-revival/php-revival.github.io) (Vue, TypeScript, TailwindCSS)
-- 🐧 [Tab Guardian](https://github.com/tab-guardian/tab-guardian) (Vue, TypeScript, TailwindCSS)
+- 🐧 [Tab Guardian](https://github.com/tab-guardian/tab-guardian) (Vue, TypeScript, TailwindCSS) GPL 3.0
 - 🐧 [Goodbye HTML](https://github.com/goodbye-html/goodbye-html) (PHP)
 - 🐧 [Tiny Logger](https://github.com/tiny-logger/tiny-logger) (PHP)
 - 🐧 [COVID-19 Stats](https://github.com/SerhiiCho/covid19-stats) (TypeScript, Vue)
