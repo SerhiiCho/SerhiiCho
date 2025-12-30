@@ -47,6 +47,7 @@
   "Technologies": [
     "Web Sockets",
     "Lexers & Parsers",
-  ],
+    "Docker & Podman"
+  ]
 }
 ```
