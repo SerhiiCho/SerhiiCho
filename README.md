@@ -1,5 +1,8 @@
 ## My Open Source
 
+> [!WARNING]
+> No vibe coding in my open source, only your skills. Long live code quality!
+
 ### 📦 Complete Packages
 - Textwire
   - 🐧 [Textwire](https://github.com/textwire/textwire) (Go)
