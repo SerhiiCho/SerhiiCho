@@ -1,7 +1,4 @@
-## My Open Source
-
-> [!WARNING]
-> No vibe coding in my open source, only your skills. Long live code quality!
+## Check This Out
 
 ### 📦 Complete Packages
 - Textwire
@@ -40,17 +37,3 @@
 ### 🎮 Games
 - 🐧 [Tower Defense](https://github.com/SerhiiChoGames/tower-defense)
 - 🐧 [Collect Diamonds](https://github.com/SerhiiChoGames/collect-diamonds)
-
-## Things I've worked With
-```json
-{
-  "Payment Systems": ["Mollie", "Bitpay", "Portmone", "WayForPay"],
-  "Integration services": ["Megaplan CRM", "Exact Online"],
-  "Chat Bots": ["Telegram"],
-  "Technologies": [
-    "Web Sockets",
-    "Lexers & Parsers",
-    "Docker & Podman"
-  ]
-}
-```
