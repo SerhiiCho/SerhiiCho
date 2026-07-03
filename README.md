@@ -28,6 +28,7 @@
   - 🐧 [PHP Revival Landing](https://github.com/php-revival/php-revival.github.io) (Vue, TypeScript, TailwindCSS)
 - 🐧 [Tab Guardian](https://github.com/tab-guardian/tab-guardian) (Vue, TypeScript, TailwindCSS) GPL 3.0
 - 🐧 [Goodbye HTML](https://github.com/goodbye-html/goodbye-html) (PHP)
+- 🐧 [Genshin Resin Counter](https://github.com/resin-counter/resin-counter) (TypeScript)
 - 🐧 [Tiny Logger](https://github.com/tiny-logger/tiny-logger) (PHP)
 - 🐧 [COVID-19 Stats](https://github.com/SerhiiCho/covid19-stats) (TypeScript, Vue)
 
