@@ -37,5 +37,5 @@
 - 🐧 [RFC Vote](https://github.com/rfc-vote/rfc-vote) (PHP, Laravel) MIT
 
 ### 🎮 Games
-- 🐧 [Tower Defense](https://github.com/SerhiiChoGames/tower-defense) MIT
+- 🐧 [Tower Defense](https://codeberg.org/SerhiiChoGames/tower-defense) MIT
 - 🐧 [Collect Diamonds](https://github.com/SerhiiChoGames/collect-diamonds) MIT
