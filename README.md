@@ -31,7 +31,7 @@
 - 🐧 [Goodbye HTML](https://github.com/goodbye-html/goodbye-html) (PHP) MIT
 - 🐧 [Genshin Resin Counter](https://github.com/resin-counter/resin-counter) (TypeScript) MIT
 - 🐧 [Tiny Logger](https://github.com/tiny-logger/tiny-logger) (PHP) MIT
-- 🐧 [COVID-19 Stats](https://github.com/SerhiiCho/covid19-stats) (TypeScript, Vue) MIT
+- 🐧 [COVID-19 Stats](https://codeberg.org/SerhiiCho/covid19-stats) (TypeScript, Vue) MIT
 
 ### 🤝 Collaboration Packages
 - 🐧 [RFC Vote](https://github.com/rfc-vote/rfc-vote) (PHP, Laravel) MIT
