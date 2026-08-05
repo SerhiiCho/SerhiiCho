@@ -38,4 +38,4 @@
 
 ### 🎮 Games
 - 🐧🏃️ [Tower Defense](https://codeberg.org/SerhiiChoGames/tower-defense) MIT
-- 🐧 [Collect Diamonds](https://github.com/SerhiiChoGames/collect-diamonds) MIT
+- 🐧🏃️ [Collect Diamonds](https://codeberg.org/SerhiiChoGames/collect-diamonds) MIT
