@@ -28,7 +28,7 @@
   - 🐧 [PHP Revival Landing](https://github.com/php-revival/php-revival.github.io) (Vue, TypeScript, TailwindCSS) MIT
 - 🐧 [Tab Guardian](https://github.com/tab-guardian/tab-guardian) (Vue, TypeScript, TailwindCSS) GPL 3.0
 - 🐧🏃️ [Cron Backups](https://codeberg.org/SerhiiCho/cron-backups) (Bash) MIT
-- 🐧 [Goodbye HTML](https://github.com/goodbye-html/goodbye-html) (PHP) MIT
+- 🐧🏃️ [Goodbye HTML](https://codeberg.org/goodbye-html/goodbye-html) (PHP) MIT
 - 🐧🏃️ [Genshin Resin Counter](https://codeberg.org/resin-counter/resin-counter) (TypeScript) MIT
 - 🐧 [Tiny Logger](https://github.com/tiny-logger/tiny-logger) (PHP) MIT
 - 🐧🏃️ [COVID-19 Stats](https://codeberg.org/SerhiiCho/covid19-stats) (TypeScript, Vue) MIT
