@@ -1,4 +1,4 @@
-<img width="850" height="400" alt="image" src="https://github.com/user-attachments/assets/7d92b571-1caa-4ac7-9825-0609a73d1b4d" />
+<img width="1054" height="459" alt="image" src="https://github.com/user-attachments/assets/27bdfd19-e65d-4921-b943-9b248a0483c9" />
 
 ### 📦 Complete Packages
 - Textwire
