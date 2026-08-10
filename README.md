@@ -18,8 +18,8 @@
   - 🐧 [Smooth Loader](https://github.com/smooth-loader/smooth-loader) (TypeScript) MIT
   - 🐧 [Smooth Loader Documentation](https://github.com/smooth-loader/smooth-loader.github.io) (VitePress, Vue) MIT
 - [Short Number](https://codeberg.org/short-number)
-  - 🐧 [Short Number](https://github.com/short-number/short-number) (PHP) MIT
-  - 🐧 [Short Number Documentation](https://github.com/short-number/short-number.github.io) (VitePress, Vue) MIT
+  - 🐧🏃️ [Short Number](https://codeberg.org/short-number/short-number) (PHP) MIT
+  - 🐧🏃️ [Short Number Documentation](https://codeberg.org/short-number/pages) (VitePress, Vue) MIT
 - [WP Pager](https://codeberg.org/wp-pager)
   - 🐧🏃️ [WP Pager](https://codeberg.org/wp-pager/wp-pager) (PHP, WordPress) MIT
   - 🐧🏃️ [WP Pager Landing](https://codeberg.org/wp-pager/pages) (TypeScript, Vue, TailwindCSS) MIT
