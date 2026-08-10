@@ -20,9 +20,9 @@
 - [Short Number](https://codeberg.org/short-number)
   - 🐧 [Short Number](https://github.com/short-number/short-number) (PHP) MIT
   - 🐧 [Short Number Documentation](https://github.com/short-number/short-number.github.io) (VitePress, Vue) MIT
-- [WP Pager](https://github.com/wp-pager)
-  - 🐧 [WP Pager](https://github.com/wp-pager/wp-pager) (PHP, WordPress) MIT
-  - 🐧 [WP Pager Landing](https://github.com/wp-pager/wp-pager.github.io) (TypeScript, Vue, TailwindCSS) MIT
+- [WP Pager](https://codeberg.org/wp-pager)
+  - 🐧🏃️ [WP Pager](https://codeberg.org/wp-pager/wp-pager) (PHP, WordPress) MIT
+  - 🐧🏃️ [WP Pager Landing](https://codeberg.org/wp-pager/pages) (TypeScript, Vue, TailwindCSS) MIT
 - [PHP Revival](https://codeberg.org/php-revival)
   - 🐧🏃️ [PHP Revival](https://codeberg.org/php-revival/php-revival) (SASS, TypeScript) GPL 3.0
   - 🐧🏃️ [PHP Revival Landing](https://codeberg.org/php-revival/pages) (Vue, TypeScript, TailwindCSS) MIT
