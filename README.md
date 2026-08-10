@@ -25,7 +25,7 @@
   - 🐧 [WP Pager Landing](https://github.com/wp-pager/wp-pager.github.io) (TypeScript, Vue, TailwindCSS) MIT
 - PHP Revival
   - 🐧🏃️ [PHP Revival](https://codeberg.org/php-revival/php-revival) (SASS, TypeScript) GPL 3.0
-  - 🐧 [PHP Revival Landing](https://github.com/php-revival/php-revival.github.io) (Vue, TypeScript, TailwindCSS) MIT
+  - 🐧🏃️ [PHP Revival Landing](https://codeberg.org/php-revival/pages) (Vue, TypeScript, TailwindCSS) MIT
 - 🐧 [Tab Guardian](https://github.com/tab-guardian/tab-guardian) (Vue, TypeScript, TailwindCSS) GPL 3.0
 - 🐧🏃️ [Cron Backups](https://codeberg.org/SerhiiCho/cron-backups) (Bash) MIT
 - 🐧🏃️ [Goodbye HTML](https://codeberg.org/goodbye-html/goodbye-html) (PHP) MIT
