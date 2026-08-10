@@ -13,7 +13,7 @@
   - 🐧 [Timeago Documentation](https://github.com/time-ago/time-ago.github.io) (VitePress, Vue) MIT
 - Ago Project
   - 🐧🏃️ [Ago](https://codeberg.org/php-ago/ago) (PHP) MIT
-  - 🐧🏃️ [Ago Documentation](https://codeberg.org/pages) (VitePress) MIT
+  - 🐧🏃️ [Ago Documentation](https://codeberg.org/php-ago/pages) (VitePress) MIT
 - Smooth Loader Project
   - 🐧 [Smooth Loader](https://github.com/smooth-loader/smooth-loader) (TypeScript) MIT
   - 🐧 [Smooth Loader Documentation](https://github.com/smooth-loader/smooth-loader.github.io) (VitePress, Vue) MIT
