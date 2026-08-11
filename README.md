@@ -5,21 +5,21 @@
   - 🐧 [Textwire](https://github.com/textwire/textwire) (Go) MIT
   - 💻 [Neovim Plugin](https://github.com/textwire/textwire.nvim) (Lua, Bash) MIT
   - 🐧 [VSCode Extension](https://github.com/textwire/vscode-textwire) (TypeScript) MIT
-  - 🐧 [Textwire Documentation](https://github.com/textwire/textwire.github.io) (React, Docusaurus) MIT
+  - 🐧 [Textwire Docs](https://github.com/textwire/textwire.github.io) (React, Docusaurus) MIT
   - 🐧 [Language Server Protocol (LSP)](https://github.com/textwire/lsp) (Go) MIT
   - 🐧 [Tree Sitter](https://github.com/textwire/tree-sitter-textwire) (C, JavaScript) MIT
 - [Timeago](https://github.com/timeago)
   - 🐧 [Timeago](https://github.com/SerhiiCho/timeago) (Go) MIT
-  - 🐧 [Timeago Documentation](https://github.com/time-ago/time-ago.github.io) (VitePress, Vue) MIT
+  - 🐧 [Timeago Docs](https://github.com/time-ago/time-ago.github.io) (VitePress, Vue) MIT
 - [Ago](https://codeberg.org/php-ago)
   - 🐧🏃️ [Ago](https://codeberg.org/php-ago/ago) (PHP) MIT
-  - 🐧🏃️ [Ago Documentation](https://codeberg.org/php-ago/pages) (VitePress) MIT
-- [Smooth Loader](https://github.com/smooth-loader)
-  - 🐧 [Smooth Loader](https://github.com/smooth-loader/smooth-loader) (TypeScript) MIT
-  - 🐧 [Smooth Loader Documentation](https://github.com/smooth-loader/smooth-loader.github.io) (VitePress, Vue) MIT
+  - 🐧🏃️ [Ago Docs](https://codeberg.org/php-ago/pages) (VitePress) MIT
+- [Smooth Loader](https://codeberg.org/smooth-loader)
+  - 🐧🏃️ [Smooth Loader](https://codeberg.org/smooth-loader/smooth-loader) (TypeScript) MIT
+  - 🐧🏃️ [Smooth Loader Docs](https://codeberg.org/smooth-loader/pages) (VitePress, Vue) MIT
 - [Short Number](https://codeberg.org/short-number)
   - 🐧🏃️ [Short Number](https://codeberg.org/short-number/short-number) (PHP) MIT
-  - 🐧🏃️ [Short Number Documentation](https://codeberg.org/short-number/pages) (VitePress, Vue) MIT
+  - 🐧🏃️ [Short Number Docs](https://codeberg.org/short-number/pages) (VitePress, Vue) MIT
 - [WP Pager](https://codeberg.org/wp-pager)
   - 🐧🏃️ [WP Pager](https://codeberg.org/wp-pager/wp-pager) (PHP, WordPress) MIT
   - 🐧🏃️ [WP Pager Landing](https://codeberg.org/wp-pager/pages) (TypeScript, Vue, TailwindCSS) MIT
