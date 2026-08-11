@@ -14,7 +14,7 @@
   - 🐈‍⬛️ [Language Server Protocol (LSP)](https://github.com/textwire/lsp) (Go) MIT
   - 🐈‍⬛️ [Tree Sitter](https://github.com/textwire/tree-sitter-textwire) (C, JavaScript) MIT
 - [Timeago](https://codeberg.org/timeago)
-  - 🐈‍⬛️ [Timeago](https://github.com/SerhiiCho/timeago) (Go) MIT
+  - 🏔️ [Timeago](https://codeberg.org/timeago/timeago) (Go) MIT
   - 🏔️ [Timeago Docs](https://codeberg.org/timeago/pages) (VitePress, Vue) MIT
 - [Ago](https://codeberg.org/php-ago)
   - 🏔️ [Ago](https://codeberg.org/php-ago/ago) (PHP) MIT
