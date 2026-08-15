@@ -10,7 +10,7 @@
   - 🏔️ [Textwire](https://codeberg.org/textwire/textwire) (Go) MIT
   - 🏔️ [Neovim Plugin](https://codeberg.org/textwire/textwire.nvim) (Lua, Bash) MIT
   - 🏔️ [VSCode Extension](https://codeberg.org/textwire/vscode-textwire) (TypeScript) MIT
-  - 🏔️ [Textwire Docs](https://codeberg.org/textwire/textwire.github.io) (React, Docusaurus) MIT
+  - 🏔️ [Textwire Docs](https://codeberg.org/textwire/pages) (React, Docusaurus) MIT
   - 🏔️ [Language Server Protocol (LSP)](https://codeberg.org/textwire/lsp) (Go) MIT
   - 🏔️ [Tree Sitter](https://codeberg.org/textwire/tree-sitter-textwire) (C, JavaScript) MIT
 - [Timeago](https://codeberg.org/timeago)
