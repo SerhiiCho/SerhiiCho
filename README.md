@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://github.com/user-attachments/assets/27bdfd19-e65d-4921-b943-9b248a0483c9" />
-</p>
-
 - 🏔️ moved to Codeberg
 - 🐈‍⬛️ still on GitHub
 
