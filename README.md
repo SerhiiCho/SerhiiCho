@@ -1,6 +1,3 @@
-- 🏔️ moved to Codeberg
-- 🐈‍⬛️ still on GitHub
-
 ### 📦 Complete Packages
 - [Textwire](https://github.com/textwire)
   - 🏔️ [Textwire](https://codeberg.org/textwire/textwire) (Go) MIT
