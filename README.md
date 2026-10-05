@@ -11,7 +11,7 @@
   - 🏔️ [Timeago Docs](https://codeberg.org/timeago/pages) (VitePress, Vue) MIT
 - [Ago](https://codeberg.org/php-ago)
   - 🏔️ [Ago](https://codeberg.org/php-ago/ago) (PHP) MIT
-  - 🏔️ [Ago Docs](https://codeberg.org/php-ago/pages) (VitePress) MIT
+  - 🏔️ [Ago Docs](https://codeberg.org/php-ago/pages) (VitePress, Vue) MIT
 - [Smooth Loader](https://codeberg.org/smooth-loader)
   - 🏔️ [Smooth Loader](https://codeberg.org/smooth-loader/smooth-loader) (TypeScript) MIT
   - 🏔️ [Smooth Loader Docs](https://codeberg.org/smooth-loader/pages) (VitePress, Vue) MIT
