@@ -1,7 +1,7 @@
 ### 📦 Complete Packages
 - [Textwire](https://github.com/textwire)
   - 🐈‍⬛️ [Textwire](https://github.com/textwire/textwire) (Go) MIT
-  - 🏔️ [Neovim Plugin](https://codeberg.org/textwire/textwire.nvim) (Lua, Bash) MIT
+  - 🐈‍⬛️ [Neovim Plugin](https://github.com/textwire/textwire.nvim) (Lua, Bash) MIT
   - 🐈‍⬛️ [VSCode Extension](https://github.com/textwire/vscode-textwire) (TypeScript) MIT
   - 🏔️ [Textwire Docs](https://codeberg.org/textwire/pages) (React, Docusaurus) MIT
   - 🐈‍⬛️ [Language Server Protocol (LSP)](https://github.com/textwire/lsp) (Go) MIT
