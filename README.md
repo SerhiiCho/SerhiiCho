@@ -1,14 +1,14 @@
 ### 📦 Complete Packages
-- [Textwire](https://github.com/textwire)
-  - 🐈‍⬛️ [Textwire](https://github.com/textwire/textwire) (Go) MIT
-  - 🐈‍⬛️ [Neovim Plugin](https://github.com/textwire/textwire.nvim) (Lua, Bash) MIT
-  - 🐈‍⬛️ [VSCode Extension](https://github.com/textwire/vscode-textwire) (TypeScript) MIT
-  - 🐈‍⬛️ [Textwire Docs](https://github.com/textwire/textwire.github.io) (React, Docusaurus) MIT
-  - 🐈‍⬛️ [Language Server Protocol (LSP)](https://github.com/textwire/lsp) (Go) MIT
-  - 🐈‍⬛️ [Tree Sitter](https://github.com/textwire/tree-sitter-textwire) (C, JavaScript) MIT
-- [Timeago](https://github.com/time-ago)
-  - 🐈‍⬛️ [Timeago](https://github.com/SerhiiCho/timeago) (Go) MIT
-  - 🐈‍⬛️ [Timeago Docs](https://github.com/time-ago/time-ago.github.io) (VitePress, Vue) MIT
+- [Textwire](https://codeberg.org/textwire)
+  - 🏔️ [Textwire](https://codeberg.org/textwire/textwire) (Go) MIT
+  - 🏔️ [Neovim Plugin](https://codeberg.org/textwire/textwire.nvim) (Lua, Bash) MIT
+  - 🏔️ [VSCode Extension](https://codeberg.org/textwire/vscode-textwire) (TypeScript) MIT
+  - 🏔️ [Textwire Docs](https://codeberg.org/textwire/pages) (React, Docusaurus) MIT
+  - 🏔️ [Language Server Protocol (LSP)](https://codeberg.org/textwire/lsp) (Go) MIT
+  - 🏔️ [Tree Sitter](https://codeberg.org/textwire/tree-sitter-textwire) (C, JavaScript) MIT
+- [Timeago](https://codeberg.org/timeago)
+  - 🏔️ [Timeago](https://codeberg.org/timeago/timeago) (Go) MIT
+  - 🏔️ [Timeago Docs](https://codeberg.org/timeago/pages) (VitePress, Vue) MIT
 - [Ago](https://codeberg.org/php-ago)
   - 🏔️ [Ago](https://codeberg.org/php-ago/ago) (PHP) MIT
   - 🏔️ [Ago Docs](https://codeberg.org/php-ago/pages) (VitePress, Vue) MIT
