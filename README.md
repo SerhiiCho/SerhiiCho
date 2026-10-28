@@ -5,7 +5,7 @@
   - 🐈‍⬛️ [VSCode Extension](https://github.com/textwire/vscode-textwire) (TypeScript) MIT
   - 🐈‍⬛️ [Textwire Docs](https://github.com/textwire/textwire.github.io) (React, Docusaurus) MIT
   - 🐈‍⬛️ [Language Server Protocol (LSP)](https://github.com/textwire/lsp) (Go) MIT
-  - 🏔️ [Tree Sitter](https://codeberg.org/textwire/tree-sitter-textwire) (C, JavaScript) MIT
+  - 🐈‍⬛️ [Tree Sitter](https://github.com/textwire/tree-sitter-textwire) (C, JavaScript) MIT
 - [Timeago](https://github.com/time-ago)
   - 🐈‍⬛️ [Timeago](https://github.com/SerhiiCho/timeago) (Go) MIT
   - 🐈‍⬛️ [Timeago Docs](https://github.com/time-ago/time-ago.github.io) (VitePress, Vue) MIT
