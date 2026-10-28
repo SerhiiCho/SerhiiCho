@@ -3,7 +3,7 @@
   - 🐈‍⬛️ [Textwire](https://github.com/textwire/textwire) (Go) MIT
   - 🐈‍⬛️ [Neovim Plugin](https://github.com/textwire/textwire.nvim) (Lua, Bash) MIT
   - 🐈‍⬛️ [VSCode Extension](https://github.com/textwire/vscode-textwire) (TypeScript) MIT
-  - 🏔️ [Textwire Docs](https://codeberg.org/textwire/pages) (React, Docusaurus) MIT
+  - 🐈‍⬛️ [Textwire Docs](https://github.com/textwire/textwire.github.io) (React, Docusaurus) MIT
   - 🐈‍⬛️ [Language Server Protocol (LSP)](https://github.com/textwire/lsp) (Go) MIT
   - 🏔️ [Tree Sitter](https://codeberg.org/textwire/tree-sitter-textwire) (C, JavaScript) MIT
 - [Timeago](https://github.com/time-ago)
