@@ -29,7 +29,6 @@
 - 🏔️ [Goodbye HTML](https://codeberg.org/goodbye-html/goodbye-html) (PHP) MIT
 - 🏔️ [Genshin Resin Counter](https://codeberg.org/resin-counter/resin-counter) (TypeScript) MIT
 - 🏔️ [Tiny Logger](https://codeberg.org/tiny-logger/tiny-logger) (PHP) MIT
-- 🏔️ [COVID-19 Stats](https://codeberg.org/SerhiiCho/covid19-stats) (TypeScript, Vue) MIT
 
 ### 🤝 Collaboration Packages
 - 🐈‍⬛️ [RFC Vote](https://github.com/rfc-vote/rfc-vote) (PHP, Laravel) MIT
