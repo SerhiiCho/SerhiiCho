@@ -6,7 +6,7 @@
   - 🏔️ [Textwire Docs](https://codeberg.org/textwire/pages) (React, Docusaurus) MIT
   - 🏔️ [Language Server Protocol (LSP)](https://codeberg.org/textwire/lsp) (Go) MIT
   - 🏔️ [Tree Sitter](https://codeberg.org/textwire/tree-sitter-textwire) (C, JavaScript) MIT
-- [Timeago](https://codeberg.org/timeago)
+- [Timeago](https://github.com/time-ago)
   - 🐈‍⬛️ [Timeago](https://github.com/SerhiiCho/timeago) (Go) MIT
   - 🐈‍⬛️ [Timeago Docs](https://github.com/time-ago/time-ago.github.io) (VitePress, Vue) MIT
 - [Ago](https://codeberg.org/php-ago)
