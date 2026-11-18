@@ -10,8 +10,8 @@
   - 🏔️ [Timeago](https://github.com/timeago/timeago) (Go) MIT
   - 🏔️ [Timeago Docs](https://github.com/timeago/timeago.github.io) (VitePress, Vue) MIT
 - [Ago](https://github.com/php-ago)
-  - 🏔️ [Ago](https://github.com/php-ago/ago) (PHP) MIT
-  - 🏔️ [Ago Docs](https://github.com/php-ago/php-ago.github.io) (VitePress, Vue) MIT
+  - 🐧️ [Ago](https://github.com/php-ago/ago) (PHP) MIT
+  - 🐧️ [Ago Docs](https://github.com/php-ago/php-ago.github.io) (VitePress, Vue) MIT
 - [Smooth Loader](https://github.com/smooth-loader)
   - 🏔️ [Smooth Loader](https://github.com/smooth-loader/smooth-loader) (TypeScript) MIT
   - 🏔️ [Smooth Loader Docs](https://github.com/smooth-loader/smooth-loader.github.io) (VitePress, Vue) MIT
