@@ -31,8 +31,8 @@
 - 🏔️ [Tiny Logger](https://codeberg.org/tiny-logger/tiny-logger) (PHP) MIT
 
 ### 🤝 Collaboration Packages
-- 🐈‍⬛️ [RFC Vote](https://github.com/rfc-vote/rfc-vote) (PHP, Laravel) MIT
+- 🐧️ [RFC Vote](https://github.com/rfc-vote/rfc-vote) (PHP, Laravel) MIT
 
 ### 🎮 Games
-- 🏔️ [Tower Defense](https://github.com/SerhiiChoGames/tower-defense) MIT
-- 🏔️ [Collect Diamonds](https://github.com/SerhiiChoGames/collect-diamonds) MIT
+- 🐧️ [Tower Defense](https://github.com/SerhiiChoGames/tower-defense) MIT
+- 🐧️ [Collect Diamonds](https://github.com/SerhiiChoGames/collect-diamonds) MIT
