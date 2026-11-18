@@ -8,7 +8,7 @@
   - 🏔️ [Tree Sitter](https://github.com/textwire/tree-sitter-textwire) (C, JavaScript) MIT
 - [Timeago](https://github.com/timeago)
   - 🐧️ [Timeago](https://github.com/time-ago/timeago) (Go) MIT
-  - 🐧️ [Timeago Docs](https://github.com/time-ago/timeago.github.io) (VitePress, Vue) MIT
+  - 🐧️ [Timeago Docs](https://github.com/time-ago/time-ago.github.io) (VitePress, Vue) MIT
 - [Ago](https://github.com/php-ago)
   - 🐧️ [Ago](https://github.com/php-ago/ago) (PHP) MIT
   - 🐧️ [Ago Docs](https://github.com/php-ago/php-ago.github.io) (VitePress, Vue) MIT
