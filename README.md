@@ -19,8 +19,8 @@
   - 🐧️ [Short Number](https://github.com/short-number/short-number) (PHP) MIT
   - 🐧️ [Short Number Docs](https://github.com/short-number/short-number.github.io) (VitePress, Vue) MIT
 - [WP Pager](https://github.com/wp-pager)
-  - 🏔️ [WP Pager](https://github.com/wp-pager/wp-pager) (PHP, WordPress) MIT
-  - 🏔️ [WP Pager Landing](https://github.com/wp-pager/wp-pager.github.io) (TypeScript, Vue, TailwindCSS) MIT
+  - 🐧️ [WP Pager](https://github.com/wp-pager/wp-pager) (PHP, WordPress) MIT
+  - 🐧️ [WP Pager Landing](https://github.com/wp-pager/wp-pager.github.io) (TypeScript, Vue, TailwindCSS) MIT
 - [PHP Revival](https://github.com/php-revival)
   - 🐧️ [PHP Revival](https://github.com/php-revival/php-revival) (SASS, TypeScript) GPL 3.0
   - 🐧️ [PHP Revival Landing](https://github.com/php-revival/php-revival.github.io) (Vue, TypeScript, TailwindCSS) MIT
