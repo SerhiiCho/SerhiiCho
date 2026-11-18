@@ -28,7 +28,7 @@
 - 🐧️ [OCI Hive](https://github.com/oci-hive/oci-hive) (Go, TypeScript, TailwindCSS) MIT
 - 🐧️ [Cron Backups](https://github.com/SerhiiCho/cron-backups) (Bash) MIT
 - 🐧️ [Goodbye HTML](https://github.com/goodbye-html/goodbye-html) (PHP) MIT
-- 🏔️ [Genshin Resin Counter](https://github.com/resin-counter/resin-counter) (TypeScript) MIT
+- 🐧️ [Genshin Resin Counter](https://github.com/resin-counter/resin-counter) (TypeScript) MIT
 - 🐧️ [Tiny Logger](https://github.com/tiny-logger/tiny-logger) (PHP) MIT
 
 ### 🤝 Collaboration Packages
