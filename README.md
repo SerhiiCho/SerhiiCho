@@ -13,8 +13,8 @@
   - 🐧️ [Ago](https://github.com/php-ago/ago) (PHP) MIT
   - 🐧️ [Ago Docs](https://github.com/php-ago/php-ago.github.io) (VitePress, Vue) MIT
 - [Smooth Loader](https://github.com/smooth-loader)
-  - 🏔️ [Smooth Loader](https://github.com/smooth-loader/smooth-loader) (TypeScript) MIT
-  - 🏔️ [Smooth Loader Docs](https://github.com/smooth-loader/smooth-loader.github.io) (VitePress, Vue) MIT
+  - 🐧️ [Smooth Loader](https://github.com/smooth-loader/smooth-loader) (TypeScript) MIT
+  - 🐧️ [Smooth Loader Docs](https://github.com/smooth-loader/smooth-loader.github.io) (VitePress, Vue) MIT
 - [Short Number](https://github.com/short-number)
   - 🐧️ [Short Number](https://github.com/short-number/short-number) (PHP) MIT
   - 🐧️ [Short Number Docs](https://github.com/short-number/short-number.github.io) (VitePress, Vue) MIT
