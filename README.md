@@ -37,7 +37,3 @@
 ### 🎮 Games
 - 🐧️ [Tower Defense](https://github.com/SerhiiChoGames/tower-defense) MIT
 - 🐧️ [Collect Diamonds](https://github.com/SerhiiChoGames/collect-diamonds) MIT
-
-## Special Thanks (not sponsored)
-- ❤️ Thanks to Opencode for giving free executions. You help opensource a lot.
-- ❤️ Thanks to GitHub for free runners for open source projects.
